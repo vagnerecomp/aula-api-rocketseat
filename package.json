@@ -1,0 +1,15 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "Aula Rocketseat",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/vagnerecomp/aula-api-rocketseat.git",
+    "type": "git"
+  },
+  "author": "Vagner José",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
